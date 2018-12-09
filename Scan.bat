@@ -1,7 +1,7 @@
 @echo off
 cls
 
-title Scan VBS
+title echobots
 
 :Menu
 Echo. Mau scan yang mana ?
